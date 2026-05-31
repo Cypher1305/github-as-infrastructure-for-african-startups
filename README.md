@@ -11,10 +11,10 @@ _How African startups can use GitHub beyond code: project management, documentat
   - [Chapter 2: Open Source Culture](#chapter-2-open-source-culture)
 
 - Tools
-  - [Chapter 3: GitHub Projects](#chapter-3-github-projects)
-  - [Chapter 4: GitHub Pages](#chapter-4-github-pages)
-  - [Chapter 5: GitHub Actions](#chapter-5-github-actions)
-
+  - [Chapter 3: Managing Work and Teams on GitHub (GitHub Projects)](#chapter-3-github-projects)
+  - [Chapter 4: Your Website, Directly from a Repository (GitHub Pages)](#chapter-4-github-pages)
+  - [Chapter 5: The Employee Who Never Sleeps (GitHub Actions)](#chapter-5-github-actions)
+  
 - Application
   - [Chapter 6: Building Startups on GitHub](#chapter-6-building-startups-on-github)
 
