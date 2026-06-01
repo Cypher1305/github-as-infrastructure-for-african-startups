@@ -85,4 +85,13 @@ The acquisition turned out, for the most part, to be beneficial for the platform
 
 ---
 ## Chapter 2: Open Source Culture
+### 4.1 - What Is Open Source, Really?
+
+### 4.2 - Licenses: The Rules of Sharing
+
+### 4.3 - Why Companies Contribute to Open Source
+
+### 4.4 - The Tragedies of Open Source
+
+---
 _To be continued..._
