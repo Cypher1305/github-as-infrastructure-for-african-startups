@@ -18,6 +18,10 @@ _How African startups can use GitHub beyond code: project management, documentat
 - Application
   - [Chapter 6: Building Startups on GitHub](#chapter-6-building-startups-on-github)
 
+- Risks and Recommendations
+  - [Chapter 7: Risks and Considerations](#chapter-7-risks-and-considerations)
+  - [Chapter 8: Recommendations for African Startups](#chapter-8-recommendations-for-african-startups) 
+
 - Vision
   - [Chapter 7: The Future of Collaborative Infrastructure](#chapter-7-the-future-of-collaborative-infrastructure)
   
